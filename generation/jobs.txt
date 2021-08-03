@@ -1,0 +1,2 @@
+# training
+/usr/bin/python3 main.py --root ../images/balloons.png
