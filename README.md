@@ -5,7 +5,7 @@ This is an unofficial implementation of SinGAN from someone who's been sitting r
   <img width="992" height="372" src="/figures/sampled.png">
 </p>
 
-Please refer the project's page [paper](https://tamarott.github.io/SinGAN.htm) for more details.
+Please refer the project's [page](https://tamarott.github.io/SinGAN.htm) for more details.
 
 
 ## Citation
@@ -30,7 +30,7 @@ Clone this repository into any place you want.
 
 ```
 git clone https://github.com/kligvasser/SinGAN
-cd ./SinGAN
+cd ./SinGAN/generation/
 ```
 
 ### Install dependencies
